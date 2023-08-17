@@ -4,6 +4,9 @@ Prebuilt scenarios for Gloomhaven &amp; Frosthaven scenarios using Monster Mover
 
 ## Scenarios
 
+All potential monster spawns are populated. It will be up to the user to remove the non applicable monsters for the given player count. In the future I'd like to have a link for each player combination.
+These scenarios use the "Wall Line" feature over the "Wall" hex feature to designate scenario walls. The doors are Wall hexes where, when opened, can be removed using the same Wall hex feature.
+
 ### Gloomhaven
 
 * [Scenario 1](https://gloom.aluminumangel.org/UUgFpFqgi06BAmiABmiABmiALAEYgAQMgAEwAAaAKwG4BIAByBKAAUjBABgELgOgABqgARqgARLgECBQgDAAmQEwAGkYBzAADdCAkYBRAA3wGQAHFAhjABqgARrgIQagARqgAfICYIAmgQRhDGHAgIEw7gLggAhhgCAYEgBjAPICYIAsgQphHEADNGA0QAM0QAM0YPwFwAEdwhiAPAEYgAZogAZowHg)
